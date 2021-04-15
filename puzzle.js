@@ -4,7 +4,7 @@
 
 	// 設定
 	size = 3;
-	main_image = "imgs/002.png";
+	main_image = "imgs/001.png";
 	panels = [];
 	cell_w = 320 / size;
 	cell_h = 320 / size;
